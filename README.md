@@ -15,7 +15,8 @@
 
 #### Find me somewhere else
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonioamandio/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonioamandio/) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&Link=https://www.linkedin.com/in/antonioamandio/)](https://www.linkedin.com/in/antonioamandio/)
 [![Gmail Badge](https://img.shields.io/badge/-antonioamandio22@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:antonioamandio22@gmail.com)
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/antonioamandio)
 [![instagram](https://img.shields.io/badge/instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio__amandio/)
