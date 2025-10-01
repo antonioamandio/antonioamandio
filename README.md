@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm António Amândio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-<!--
-**antonioamandio/antonioamandio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I am a software developer focused on creating technological solutions to solve real-world problems and build functional, high-quality software.
 
-Here are some ideas to get you started:
+💡 Skills and Specialties:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🤝 Strong team spirit, with excellent collaboration skills.
+
+• 📚 Quick to learn and eager to share knowledge in professional environments.
+
+• 🚀 Student at 42, a project-based programming school driven by practical challenges.
+
+• 🔧 Experience in real-world programming projects, with a focus on efficiency and best practices.
+
+
+#### Find me somewhere else
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonioamandio/)
+[![Gmail Badge](https://img.shields.io/badge/-antonioamandio22@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:antonioamandio22@gmail.com)
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/antonioamandio)
+[![instagram](https://img.shields.io/badge/instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio__amandio/)
