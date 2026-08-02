@@ -6,15 +6,13 @@
 
 ### 💡 Soft skills:
 
-• 🤝 Strong team spirit, with excellent collaboration skills.
+• 🤝 Strong team spirit, with excellent collaboration skills
 
-• 📚 Quick to learn and eager to share knowledge in professional environments.
+• 📚 Quick to learn and eager to share knowledge in professional environments
 
-• 🚀 Student at 42, a project-based programming school driven by practical challenges.
+• 🚀 Student at 42, a project-based programming school driven by practical challenges
 
-• 🔧 Experience in real-world programming projects, with a focus on efficiency and best practices.
-
-<br />
+• 🔧 Experience in real-world programming projects, with a focus on efficiency and best practices
 
 ### 💻 Hard skills:
 
