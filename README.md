@@ -2,7 +2,9 @@
 
 👨‍💻 I am a software developer focused on creating technological solutions to solve real-world problems and build functional, high-quality software.
 
-💡 Skills and Specialties:
+<hr />
+
+### 💡 Soft skills:
 
 • 🤝 Strong team spirit, with excellent collaboration skills.
 
@@ -12,6 +14,13 @@
 
 • 🔧 Experience in real-world programming projects, with a focus on efficiency and best practices.
 
+<br />
+
+💻 Hard skills:
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,postgresql,vscode,nodejs,js,html,css,tailwind,react,c,cpp,php,python" />
+
+<hr/>
 
 #### Find me somewhere else
 
