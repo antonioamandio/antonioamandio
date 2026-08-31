@@ -16,7 +16,7 @@
 
 ### 💻 Hard skills:
 
-<img src="https://skillicons.dev/icons?i=git,linux,bash,postgresql,nodejs,js,html,css,tailwind,react,c,cpp,php,python" />
+<img src="https://skillicons.dev/icons?i=git,linux,bash,postgresql,nodejs,js,typescript,html,css,tailwind,react,c,cpp,php,python" />
 
 <hr/>
 
