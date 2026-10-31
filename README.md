@@ -1,10 +1,18 @@
-### Hi, I'm António Amândio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+## Hi, I'm António Amândio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 👨‍💻 I am a software developer focused on creating technological solutions to solve real-world problems and build functional, high-quality software.
 
+#### Find me somewhere else
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonioamandio/) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&Link=https://www.linkedin.com/in/antonioamandio/)](https://www.linkedin.com/in/antonioamandio/)
+[![Gmail Badge](https://img.shields.io/badge/-antonioamandio22@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:antonioamandio22@gmail.com)
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white&Link=https://github.com/antonioamandio/)](https://github.com/antonioamandio)
+<!-- [![instagram](https://img.shields.io/badge/instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white&https://www.instagram.com/antonio__amandio/)](https://www.instagram.com/antonio__amandio/) -->
+
 <hr />
 
-### 💡 Soft skills:
+## 💡 Soft skills:
 
 • 🤝 Strong team spirit, with excellent collaboration skills
 
@@ -14,16 +22,20 @@
 
 • 🔧 Experience in real-world programming projects, with a focus on efficiency and best practices
 
-### 💻 Hard skills:
+## 💻 Hard skills:
 
-<img src="https://skillicons.dev/icons?i=git,linux,bash,postgresql,nodejs,js,typescript,html,css,tailwind,react,c,cpp,php,python" />
+#### Languages
 
-<hr/>
+<p align="left"> <img src="https://skillicons.dev/icons?i=typescript,js,c,cpp,python,php" alt="Languages" /> </p>
 
-#### Find me somewhere else
+#### Frontend
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonioamandio/) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&Link=https://www.linkedin.com/in/antonioamandio/)](https://www.linkedin.com/in/antonioamandio/)
-[![Gmail Badge](https://img.shields.io/badge/-antonioamandio22@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:antonioamandio22@gmail.com)
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white&Link=https://github.com/antonioamandio/)](https://github.com/antonioamandio)
-<!-- [![instagram](https://img.shields.io/badge/instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white&https://www.instagram.com/antonio__amandio/)](https://www.instagram.com/antonio__amandio/) -->
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend" /> </p>
+
+#### Backend & Database
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,postgresql,mysql" alt="Backend and Database" /> </p>
+
+#### Tools
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,linux,bash,notion" alt="Tools" /> </p>
