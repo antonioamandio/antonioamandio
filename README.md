@@ -1,4 +1,4 @@
-## Hi, I'm António Amândio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### Hi, I'm António Amândio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 👨‍💻 I am a software developer focused on creating technological solutions to solve real-world problems and build functional, high-quality software.
 
@@ -12,7 +12,7 @@
 
 <hr />
 
-## 💡 Soft skills:
+### 💡 Soft skills:
 
 • 🤝 Strong team spirit, with excellent collaboration skills
 
@@ -22,7 +22,9 @@
 
 • 🔧 Experience in real-world programming projects, with a focus on efficiency and best practices
 
-## 💻 Hard skills:
+<hr />
+
+### 💻 Hard skills:
 
 #### Languages
 
